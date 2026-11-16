@@ -1,0 +1,12 @@
+node_modules
+.git
+.github
+coverage
+referencias
+README.md
+*.log
+.env*
+
+referencias/
+evidencias/
+.git/
